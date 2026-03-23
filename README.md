@@ -1,6 +1,8 @@
-# Claude Code Skills
+# AI Coding Principles
 
 A collection of Claude Code skills for coding discipline and system design knowledge.
+
+[中文文档](./README.zh-CN.md)
 
 ## Skills
 
